@@ -12,7 +12,7 @@ Generated Samples:
 <em>USPS</em>
 </p>
 
-| [![MNIST](/results/MNIST.png)]()  | [![AudioBlocks](https://dtyn3c8zjrx01.cloudfront.net/img/assets/audioblocks/images/logo.png)](http://audioblocks.com) | [![GraphicStock](http://www.graphicstock.com/images/logo.jpg)](http://graphicstock.com) |
+| [![MNIST](/results/MNIST.png)]()  | [![FashionMNIST](/results/FashionMNIST.png)]() | [![GraphicStock](http://www.graphicstock.com/images/logo.jpg)](http://graphicstock.com) |
 |:---:|:---:|:---:|
 | http://videoblocks.com | http://audioblocks.com | http://graphicstock.com |
 
