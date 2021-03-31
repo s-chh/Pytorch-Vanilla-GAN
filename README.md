@@ -2,9 +2,9 @@
 Pytorch implementation of GAN for MNIST, FashionMNIST and USPS dataset.
 
 ### Generator
-FC(10)&#x2192;FC(1024)&#x2192;FC(1024)&#x2192;FC(IMG)
+FC(10)&#x2192;FC(1024)&#x2192;FC(1024)&#x2192;FC(ImageSize)
 ### Discriminator
-FC(IMG)&#x2192;FC(256)&#x2192;FC(256)&#x2192;FC(1)
+FC(ImageSize)&#x2192;FC(256)&#x2192;FC(256)&#x2192;FC(1)
 
 <br>
 Change the DB variable to change the dataset.
