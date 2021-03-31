@@ -4,7 +4,7 @@ Pytorch implementation of Vanilla-GAN for MNIST, FashionMNIST and USPS dataset.
 ### Generator
 FC(10)&#x2192;FC(1024)&#x2192;FC(1024)&#x2192;FC(Image_Size)
 ### Discriminator
-FC(Image-Size)&#x2192;FC(256)&#x2192;FC(256)&#x2192;FC(1)
+FC(Image_Size)&#x2192;FC(256)&#x2192;FC(256)&#x2192;FC(1)
 
 <br>
 Change the DB variable to change the dataset.
