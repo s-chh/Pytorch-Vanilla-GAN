@@ -7,7 +7,7 @@ Generated Samples:
   <img src="/results/FashionMNIST.png" width="320" /> 
   <img src="/results/USPS.png" width="320" />
 <br>
-    <em>caption</em>
+<em>caption</em>
 </p>
 
 Change the DB variable to change the dataset.
