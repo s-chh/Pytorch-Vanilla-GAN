@@ -3,7 +3,7 @@ Pytorch implementation of GAN for MNIST, FashionMNIST and USPS dataset.
 
 ## Generated Samples
 #### MNIST
-<img src="/results/MNIST.png" width="300"></img>
+<img src="/results/MNIST.png" width="900"></img>
 #### FashionMNIST
  ![FashionMNIST](/results/FashionMNIST.png)
 #### USPS
