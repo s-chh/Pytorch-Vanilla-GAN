@@ -1,4 +1,4 @@
-# Pytorch-GAN-MNIST-FashionMNIST-USPS
+# Pytorch-Vanilla-GAN-MNIST-FashionMNIST-USPS
 Pytorch implementation of Vanilla-GAN for MNIST, FashionMNIST and USPS dataset.
 
 ### Generator
