@@ -2,9 +2,9 @@
 Pytorch implementation of GAN for MNIST, FashionMNIST and USPS dataset.
 
 Generated Samples:
-| [![MNIST](/results/MNIST.png)](/results/MNIST.png) | [![FashionMNIST](/results/FashionMNIST.png)](/results/FashionMNIST.png) | [![USPS](/results/USPS.png)](/results/USPS.png) |
-|:---:|:---:|:---:|
 | MNIST | FashionMNIST | USPS |
+|:---:|:---:|:---:|
+| [![MNIST](/results/MNIST.png)](/results/MNIST.png) | [![FashionMNIST](/results/FashionMNIST.png)](/results/FashionMNIST.png) | [![USPS](/results/USPS.png)](/results/USPS.png) |
 
 Change the DB variable to change the dataset.
 
