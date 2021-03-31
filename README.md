@@ -2,15 +2,15 @@
 Pytorch implementation of GAN for MNIST, FashionMNIST and USPS dataset.
 
 Results:
-MNIST
+MNIST:
 <p align="left">
   <img src="/results/MNIST.png" width="350" title="hover text">
 </p>
-FashionMNIST
+FashionMNIST:
 <p align="left">
   <img src="/results/FashionMNIST.png" width="350" title="hover text">
 </p>
-USPS
+USPS:
 <p align="left">
   <img src="/results/USPS.png" width="350" title="hover text">
 </p>
