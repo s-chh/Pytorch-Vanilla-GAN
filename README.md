@@ -3,21 +3,9 @@ Pytorch implementation of GAN for MNIST, FashionMNIST and USPS dataset.
 
 Results:
 <p float="left">
-  <img src="/results/MNIST.png" width="300" />
-  <img src="/results/FashionMNIST.png" width="300" /> 
-  <img src="/results/USPS.png" width="300" />
-</p>
-MNIST:
-<p align="left">
-  <img src="/results/MNIST.png" width="350" title="hover text">
-</p>
-FashionMNIST:
-<p align="left">
-  <img src="/results/FashionMNIST.png" width="350" title="hover text">
-</p>
-USPS:
-<p align="left">
-  <img src="/results/USPS.png" width="350" title="hover text">
+  <img src="/results/MNIST.png" width="350" />
+  <img src="/results/FashionMNIST.png" width="350" /> 
+  <img src="/results/USPS.png" width="350" />
 </p>
 
 Change the DB variable to change the dataset.
