@@ -1,9 +1,9 @@
 # Pytorch-GAN-MNIST-FashionMNIST-USPS
 Pytorch implementation of GAN for MNIST, FashionMNIST and USPS dataset.
 
-###Generator
+### Generator
 FC(10)&#x2192;FC(1024)&#x2192;FC(1024)&#x2192;FC(IMG)
-###Discriminator
+### Discriminator
 FC(IMG)&#x2192;FC(256)&#x2192;FC(256)&#x2192;FC(1)
 
 <br>
