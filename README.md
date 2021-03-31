@@ -1,18 +1,13 @@
 # Pytorch-GAN-MNIST-FashionMNIST-USPS
 Pytorch implementation of GAN for MNIST, FashionMNIST and USPS dataset.
 
-Generated Samples:
-| MNIST | FashionMNIST | USPS |
-|:---:|:---:|:---:|
-| [![MNIST](/results/MNIST.png)](/results/MNIST.png) | [![FashionMNIST](/results/FashionMNIST.png)](/results/FashionMNIST.png) | [![USPS](/results/USPS.png)](/results/USPS.png) |
-
-### Results
-#### Church
- ![result](/results/MNIST.png)
-#### Bedroom
- ![result](/results/FashionMNIST.png)
-#### Kitchen
- ![result](/results/USPS.png)
+### Generated Samples
+#### MNIST
+ ![MNIST](/results/MNIST.png)
+#### FashionMNIST
+ ![FashionMNIST](/results/FashionMNIST.png)
+#### USPS
+ ![USPS](/results/USPS.png)
 
 Change the DB variable to change the dataset.
 
