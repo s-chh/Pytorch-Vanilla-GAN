@@ -12,9 +12,9 @@ Generated Samples:
 <em>USPS</em>
 </p>
 
-| [![MNIST](/results/MNIST.png)]()  | [![FashionMNIST](/results/FashionMNIST.png)]() | [![GraphicStock](http://www.graphicstock.com/images/logo.jpg)](http://graphicstock.com) |
+| [![MNIST](/results/MNIST.png)]()  | [![FashionMNIST](/results/FashionMNIST.png)]() | [![USPS](/results/USPS.png)]() |
 |:---:|:---:|:---:|
-| http://videoblocks.com | http://audioblocks.com | http://graphicstock.com |
+| MNIST | FashionMNIST | USPS |
 
 Change the DB variable to change the dataset.
 
