@@ -2,7 +2,7 @@
 Pytorch implementation of GAN for MNIST, FashionMNIST and USPS dataset.
 
 Generator
-FC(10)&#x2192;
+FC(10)&#x2192;FC(10)&#x2192;
 
 <br>
 Change the DB variable to change the dataset.
