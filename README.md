@@ -5,9 +5,9 @@ Pytorch implementation of GAN for MNIST, FashionMNIST and USPS dataset.
 #### MNIST
 <img src="/results/MNIST.png" width="900"></img>
 #### FashionMNIST
- ![FashionMNIST](/results/FashionMNIST.png)
+<img src="/results/FashionMNIST.png" width="900"></img>
 #### USPS
- ![USPS](/results/USPS.png)
+<img src="/results/USPS.png" width="900"></img>
 
 Change the DB variable to change the dataset.
 
