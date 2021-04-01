@@ -14,8 +14,8 @@ For using the saved model to generate images, set LOAD_MODEL to True and EPOCHS 
 
 ## Generated Samples
 #### MNIST
-<img src="/results/MNIST.png" width="900"></img>
+<img src="/Results/MNIST.png" width="900"></img>
 #### FashionMNIST
-<img src="/results/FashionMNIST.png" width="900"></img>
+<img src="/Results/FashionMNIST.png" width="900"></img>
 #### USPS
-<img src="/results/USPS.png" width="900"></img>
+<img src="/Results/USPS.png" width="900"></img>
